@@ -1,0 +1,30 @@
+{
+  "admin": {
+    "id": 1,
+    "name": "admin",
+    "balance": 100,
+    "password": "admin",
+    "admin": "yes"
+  },
+  "johnd": {
+    "id": 2,
+    "name": "John Dana",
+    "balance": 100,
+    "password": "1234",
+    "admin": "no"
+  },
+  "joana": {
+    "id": 3,
+    "name": "Joana Black",
+    "balance": 100,
+    "password": "12345",
+    "admin": "no"
+  },
+  "pedro": {
+    "id": 4,
+    "name": "Pedro Franck",
+    "balance": 99,
+    "password": "bicicleta123",
+    "admin": "no"
+  }
+}
